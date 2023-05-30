@@ -718,6 +718,7 @@
         "category": "Men Clothing",
         "brand": "Street Armor by Pantaloons",
         "color": "black",
+        "off_price": 1990,
         "images": {
           "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/998a78d8-157d-4dad-9178-42b130e3915a1632570452832StreetArmorbyPantaloonsMenBlackStripedSportyJacket1.jpg",
           "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/a64253af-ec67-4dec-881b-8e0045ba4e5b1632570453105StreetArmorbyPantaloonsMenBlackStripedSportyJacket2.jpg",
@@ -768,6 +769,7 @@
         "description": "Black solid striped sporty jacket with zip detail, has a hooded, 2 pockets ,has a zip closure, long sleeves, straight hemline, without lining",
         "category": "Men Clothing",
         "brand": "Street Armor by Pantaloons",
+        "off_price": 1900,
         "color": "black",
         "images": {
           "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/998a78d8-157d-4dad-9178-42b130e3915a1632570452832StreetArmorbyPantaloonsMenBlackStripedSportyJacket1.jpg",
